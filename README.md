@@ -40,9 +40,6 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
 
 ---
 
-### My Toolkit: Languages & Tools
-
-### My Toolkit: Languages & Tools
 
 ### My Toolkit: Languages & Tools
 
@@ -50,6 +47,23 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    </picture>
+  </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.chartjs.org/docs/latest/favicon.ico"> <source media="(prefers-color-scheme: light)" srcset="https://www.chartjs.org/docs/latest/favicon.ico">
+      <img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Chart.js" width="40" height="40"/>
+    </picture>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <picture>### My Toolkit: Languages & Tools
+
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
     </picture>
   </a>
@@ -75,7 +89,8 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain-wordmark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
     </picture>
   </a>
@@ -102,7 +117,8 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
     </picture>
   </a>
@@ -122,7 +138,8 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     </picture>
   </a>
@@ -135,25 +152,29 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
     </picture>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </picture>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
     </picture>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </picture>
   </a>
@@ -194,7 +215,8 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
     </picture>
   </a>
