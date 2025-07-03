@@ -46,22 +46,6 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-    </picture>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.chartjs.org/docs/latest/favicon.ico"> <source media="(prefers-color-scheme: light)" srcset="https://www.chartjs.org/docs/latest/favicon.ico">
-      <img src="https://www.chartjs.org/docs/latest/favicon.ico" alt="Chart.js" width="40" height="40"/>
-    </picture>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <picture>### My Toolkit: Languages & Tools
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
