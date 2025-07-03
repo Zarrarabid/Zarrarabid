@@ -11,23 +11,23 @@
 
 ---
 
-### About Me
+### 🌟 About Me
 
-I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting **dynamic and responsive web applications**. My expertise lies in building **seamless user experiences** with a strong focus on **frontend development** using modern technologies like **React**. On the backend, I leverage the full power of **MongoDB, Express, and Node.js** to bring robust applications to life.
-
----
-
-### What I'm Up To
-
-- 🌱 I'm currently diving into the exciting world of **3D Animation**.
-- 👨‍💻 Explore my work! All of my projects are available at [https://zarrar-porfolio.vercel.app/](https://zarrar-porfolio.vercel.app/).
-- 💬 Have questions about **React** or **ReactNative**? Feel free to ask me anything!
-- 📫 You can reach me directly at **zarrarabid72@gmail.com**.
-- 📄 Want to know more about my professional journey? Check out my resume: [https://zarrarresume.tiiny.site/](https://zarrarresume.tiiny.site/).
+I'm a passionate **MERN stack developer** based in Pakistan, driven by the art of crafting **dynamic and responsive web applications**. My journey revolves around building **seamless user experiences**, with a strong command over **frontend development** using cutting-edge technologies like **React**. On the backend, I harness the full power of **MongoDB, Express, and Node.js** to breathe life into robust applications. I thrive on bringing innovative ideas to fruition and constantly expanding my skill set.
 
 ---
 
-### Let's Connect!
+### 🚀 What I'm Up To
+
+- 🌱 Currently, I'm immersing myself in the fascinating realm of **3D Animation**, exploring new dimensions of creativity.
+- 👨‍💻 Eager to see my work? Explore all my projects and contributions at [https://zarrar-porfolio.vercel.app/](https://zarrar-porfolio.vercel.app/).
+- 💬 Got questions about **React** or **ReactNative**? Don't hesitate to ask! I love discussing these technologies.
+- 📫 You can reach me directly via email at **zarrarabid72@gmail.com**.
+- 📄 Curious about my professional background? Take a look at my resume: [https://zarrarresume.tiiny.site/](https://zarrarresume.tiiny.site/).
+
+---
+
+### 🤝 Let's Connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/zarrarabid" target="_blank">
@@ -40,8 +40,7 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
 
 ---
 
-
-### My Toolkit: Languages & Tools
+### 🛠️ My Toolkit: Languages & Tools
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -215,10 +214,16 @@ I'm a passionate **MERN stack developer** from Pakistan, dedicated to crafting *
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zarrarabid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zarrarabid&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=zarrarabid&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zarrarabid&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ From Zarrar Hussain Abid - Thanks for visiting! ⭐
 </p>
